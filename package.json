@@ -1,0 +1,9 @@
+{
+  "name": "NodeJS Programs",
+  "version": "1.0.0",
+  "author": "Suresh M",
+  "dependencies": {
+    "express": "^4.19.0",
+    "pg": "^8.11.3"
+  }
+}
